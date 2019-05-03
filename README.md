@@ -15,13 +15,15 @@ It can be downloaded through the MinGW website which can be found here:
 
 Once you have downloaded the compiler, go to Command Prompt or Terminal depending on your Operating System
 From there, you'll have to change your directory to the location where you have downloaded this file.
-You can do that by 
+You can do that by <br />
 ```cd YOUR_FILE_LOCATION```
+<br />
 
-After that you'll have to compile the code by
+After that you'll have to compile the code by <br />
 ```g++ FILE_NAME```
+<br />
 
-Finally, to run it 
-```a.exe ``` - for windows users
-```/a.out``` - for MAC users
+Finally, to run it <br />
+```a.exe ``` - for windows users <br />
+```/a.out``` - for MAC users<br />
 
